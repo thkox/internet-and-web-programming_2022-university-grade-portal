@@ -104,7 +104,7 @@ These examples illustrate how each user role interacts with the system, showcasi
     <td align="center"><a href="https://github.com/thkox"><img src="https://avatars.githubusercontent.com/u/79880468?v=4" width="100px;" alt="Theodoros Koxanoglou"/><br /><sub><b>Theodoros Koxanoglou</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ApostolisSiampanis"><img src="https://avatars.githubusercontent.com/u/75365398?v=4" width="100px;" alt="Apostolis Siampanis"/><br /><sub><b>Apostolis Siampanis</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/AimiliosKourpas"><img src="https://avatars.githubusercontent.com/u/118211341?v=4" width="100px;" alt="Aimilianos Kourpas"/><br /><sub><b>Aimilianos Kourpas</b></sub></a><br /></td>
-   <td align="center"><a href="https://www.linkedin.com/in/aggeliki-kaldiri-a5679828b/"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFQCDbRH1jDkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694937683354?e=1729123200&v=beta&t=sF5netTrkWAR0SREFoyJKCHzKr2wQl-FIu7TKjxllog" width="100px;" alt="Aimilianos Kourpas"/><br /><sub><b>Aggeliki Kaldiri</b></sub></a><br /></td>
+   <td align="center"><a href="https://www.linkedin.com/in/aggeliki-kaldiri-a5679828b/"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFQCDbRH1jDkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694937683354?e=1729123200&v=beta&t=sF5netTrkWAR0SREFoyJKCHzKr2wQl-FIu7TKjxllog" width="100px;" alt="Aggeliki Kaldiri"/><br /><sub><b>Aggeliki Kaldiri</b></sub></a><br /></td>
   </tr>
 </table>
 
