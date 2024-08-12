@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+body{
+	background-color: #3399ff; 
+	background-image: url('../images/background.jpg'); 
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover; 
+	margin: 30px;
+}
+
+figure{
+	color:white;
+	font-family: Bahnschrift;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 300%;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+@media screen and (max-width: 500px) {
+	.navbar a, .topnav-right {
+		float: none;
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+}
+
+figure{
+	color:white;
+	text-align: center;
+	font-size: 200%;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+img.mainimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+	border-radius: 40px;
+	transition: transform 0.4s;
+}
+
+.mainimage:hover { 
+	transform: scale(1.1);
+}
+
+table{
+	border-collapse: collapse;
+	empty-cells: hide;
+	margin-left:auto; 
+	margin-right:auto;
+	text-align:center;
+}
+
+td {
+	text-align: center;
+	vertical-align: center;
+}
+
+button {
+	color: white;
+	background-color: #00ace6;
+	padding: 30px 50px; /* y, x */
+	text-align: center;
+	font-size: 150%;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	border-radius: 20px;
+}
+
+button.login {
+	background-color: #33ccff;
+}
+
+button.exit{
+	background-color: #66d9ff;
+}
+
+button:hover {
+	background-color: #00cca3;
+	color: white;
+	transition-duration: 0.2s;
+}

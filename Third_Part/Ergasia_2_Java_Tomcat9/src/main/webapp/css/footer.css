@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:  #1a8cff;
+   color: white;
+   text-align: center;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#footer {
+  transition: margin-left .5s;
+}
