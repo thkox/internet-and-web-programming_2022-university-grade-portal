@@ -5,9 +5,8 @@
 This project is a team assignment for the "Internet and Web Programming" course, offered in the 4th semester of the 2022 academic year at the University of Piraeus, Department of Informatics. The final project involves the development and completion of a 3-tier web application for grade management. The application integrates server-side technologies (servlets and JSP) with database management to create a functional system for different types of users, including students, professors, and secretaries.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Internet and Web Programming (2022)
 - **Semester:** 4th
 
